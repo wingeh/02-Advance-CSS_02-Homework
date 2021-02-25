@@ -1,0 +1,13 @@
+header {
+    background-color: blue;
+    width: 100%;
+}
+
+footer {
+    background-color: #333;
+}
+
+footer p {
+    text-align: center;
+    color: #000;
+}
